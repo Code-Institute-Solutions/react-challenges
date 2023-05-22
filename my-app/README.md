@@ -1,12 +1,14 @@
 # Getting Started
 
 ### In the terminal do:
-cd my-app
-nvm install 16 && nvm use 16
-npm install
+<code>cd my-app</code>
+
+<code>nvm install 16 && nvm use 16</code>
+
+<code>npm install</code>
 
 ### You can then run the project with the command
-npm start
+<code>npm start</code>
 
 ### Items to be aware of
 Inside the folder named src you will find a file named posts.json. This file will not be used until a challenge later in the content.  
