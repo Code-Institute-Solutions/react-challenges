@@ -2,6 +2,7 @@
 
 ### In the terminal do:
 cd my-app
+nvm install 16 && nvm use 16
 npm install
 
 ### You can then run the project with the command
